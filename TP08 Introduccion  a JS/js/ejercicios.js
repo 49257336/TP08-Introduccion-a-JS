@@ -128,7 +128,8 @@ function CalcularTotal(){
 });
 OutputResult(monto);
 }
-CalcularTotal();
+
+
 
 
 
